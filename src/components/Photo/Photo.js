@@ -5,6 +5,7 @@ import { PHOTO_GET } from '../../api.js';
 import Error from '../helper/Erro.js';
 import Loading from '../helper/Loading.js';
 import PhotoContent from './PhotoContent.js';
+import Head from '../helper/Head.js';
 
 const Photo = () => {
   const { id } = useParams();
@@ -28,6 +29,7 @@ const Photo = () => {
   if (data) {
     return (
       <section className="container mainContainer">
+        <Head title={data.photo.title} />
         <PhotoContent single data={data} />
       </section>
     );

@@ -11,6 +11,8 @@ import { USER_POST } from '../../api.js';
 
 import { UserContext } from '../../UserContext.js';
 
+import Head from '../helper/Head.js';
+
 const LoginCreate = () => {
   const username = useForm();
   const email = useForm('email');
@@ -35,6 +37,7 @@ const LoginCreate = () => {
 
   return (
     <section className="animeLeft">
+      <Head title="Crie sua conta" />
       <h1 className="title">Cadastre-se</h1>
       <form onSubmit={handleSubmit}>
         <Input label="Usuário" type="text" name="username" {...username} />
