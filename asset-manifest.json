@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/dogs-app.github.io/static/css/main.8b46cd7b.chunk.css",
+    "main.js": "/dogs-app.github.io/static/js/main.48e83979.chunk.js",
+    "main.js.map": "/dogs-app.github.io/static/js/main.48e83979.chunk.js.map",
+    "runtime-main.js": "/dogs-app.github.io/static/js/runtime-main.995175e3.js",
+    "runtime-main.js.map": "/dogs-app.github.io/static/js/runtime-main.995175e3.js.map",
+    "static/js/2.ab2347fc.chunk.js": "/dogs-app.github.io/static/js/2.ab2347fc.chunk.js",
+    "static/js/2.ab2347fc.chunk.js.map": "/dogs-app.github.io/static/js/2.ab2347fc.chunk.js.map",
+    "static/js/3.43a55553.chunk.js": "/dogs-app.github.io/static/js/3.43a55553.chunk.js",
+    "static/js/3.43a55553.chunk.js.map": "/dogs-app.github.io/static/js/3.43a55553.chunk.js.map",
+    "static/css/4.118108ea.chunk.css": "/dogs-app.github.io/static/css/4.118108ea.chunk.css",
+    "static/js/4.77e8ed6b.chunk.js": "/dogs-app.github.io/static/js/4.77e8ed6b.chunk.js",
+    "static/js/4.77e8ed6b.chunk.js.map": "/dogs-app.github.io/static/js/4.77e8ed6b.chunk.js.map",
+    "index.html": "/dogs-app.github.io/index.html",
+    "precache-manifest.eeff548870c4a3a91cb9ae763f753b77.js": "/dogs-app.github.io/precache-manifest.eeff548870c4a3a91cb9ae763f753b77.js",
+    "service-worker.js": "/dogs-app.github.io/service-worker.js",
+    "static/css/4.118108ea.chunk.css.map": "/dogs-app.github.io/static/css/4.118108ea.chunk.css.map",
+    "static/css/main.8b46cd7b.chunk.css.map": "/dogs-app.github.io/static/css/main.8b46cd7b.chunk.css.map",
+    "static/js/3.43a55553.chunk.js.LICENSE.txt": "/dogs-app.github.io/static/js/3.43a55553.chunk.js.LICENSE.txt",
+    "static/media/adicionar.4a6d6ceb.svg": "/dogs-app.github.io/static/media/adicionar.4a6d6ceb.svg",
+    "static/media/dogs-footer.8cc31290.svg": "/dogs-app.github.io/static/media/dogs-footer.8cc31290.svg",
+    "static/media/dogs.849a6443.svg": "/dogs-app.github.io/static/media/dogs.849a6443.svg",
+    "static/media/enviar.26c6de43.svg": "/dogs-app.github.io/static/media/enviar.26c6de43.svg",
+    "static/media/estatisticas.5b48807f.svg": "/dogs-app.github.io/static/media/estatisticas.5b48807f.svg",
+    "static/media/feed.35f798d0.svg": "/dogs-app.github.io/static/media/feed.35f798d0.svg",
+    "static/media/Login.module.css": "/dogs-app.github.io/static/media/login.824d7d85.jpg",
+    "static/media/sair.4175ea72.svg": "/dogs-app.github.io/static/media/sair.4175ea72.svg",
+    "static/media/Header.module.css": "/dogs-app.github.io/static/media/usuario.dc442992.svg",
+    "static/media/PhotoContent.module.css": "/dogs-app.github.io/static/media/visualizacao-black.957befc3.svg",
+    "static/media/FeedPhotosItem.module.css": "/dogs-app.github.io/static/media/visualizacao.4ce15ed8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.995175e3.js",
+    "static/js/3.43a55553.chunk.js",
+    "static/css/main.8b46cd7b.chunk.css",
+    "static/js/main.48e83979.chunk.js"
+  ]
+}
